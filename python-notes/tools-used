@@ -1,0 +1,14 @@
+Dependency management tool:
+   1)Poetry
+   2)UV
+
+Version Management tools: we can switch between python version using it and create virtual environment specific to version.
+
+   1) pyenv
+   2) virtual env
+
+
+
+
+
+

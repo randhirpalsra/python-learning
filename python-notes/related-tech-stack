@@ -1,0 +1,48 @@
+Tech stack used with python
+
+1) NoSQL DB: Mongo, Amazon DynamoDB.
+2) SQL DB: Mysql, Oracle, Postgres, SQL server.
+        when to use NoSQL
+        When to use SQL
+
+        What is CAP theorem?
+        What is ACID
+
+Caching
+  REDIS, Hazzle Cast etc.
+
+Blocking vs Non Blocking operation
+   Queues , Celery, Redis
+
+
+Amazon web services:
+  AWS Lambda, AWS Gateway, S3 bucket, Dynamo DB, EC2, IAM.
+
+
+Python based Server:
+  1) Gunicorn
+  2) Uvicorn
+  3) Tornado
+
+
+Frameworks
+  1) Flask
+  2) Fast API
+  3) Django
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
